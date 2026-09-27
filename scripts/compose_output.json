@@ -1,0 +1,24 @@
+{
+  "T21": {
+    "body": "Suresh, aaj DC vs MI ka match 7:30 PM par hai, aur Sunday hone ki wajah se log ghar par order karna prefer karenge. Aapka BOGO offer sirf Tue-Thu valid hai, isliye aaj delivery ke liye ek special banner banakar sales badha sakte hain. 180 delivery orders aaye hain last 30 days mein, toh aaj isse boost karte hain?",
+    "cta": "binary_yes_no",
+    "send_as": "vera",
+    "suppression_key": "ipl:m_005:2026-04-26",
+    "rationale": "Used the Sunday match timing to pivot from dine-in to delivery, noting the BOGO offer restriction and leveraging the existing 180 delivery orders volume to drive urgency.",
+    "template_name": "vera_ipl_match_today_v1",
+    "template_params": [
+      "Suresh",
+      "Suresh, aaj DC vs MI ka match 7:30 PM par hai, aur Sunday hone ki wajah se log ghar par order karna prefer karenge. Aapka BOGO offer sirf Tue-Thu valid hai, isliye aaj delivery ke liye ek special banner banakar sales badha sakte hain.",
+      "180 delivery orders aaye hain last 30 days mein, toh aaj isse boost karte hain?"
+    ],
+    "topic": "IPL match night delivery promotion",
+    "next_action": "draft tonight's delivery banner and an Insta story",
+    "source": "gemini:gemini-3.1-flash-lite",
+    "validation": [
+      {
+        "source": "gemini:gemini-3.1-flash-lite",
+        "problems": []
+      }
+    ]
+  }
+}
